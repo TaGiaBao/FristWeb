@@ -1,0 +1,4 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+tên_file_nặng_của_bạn.mp4 filter=lfs diff=lfs merge=lfs -text
+video_background.mp4 filter=lfs diff=lfs merge=lfs -text
